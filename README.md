@@ -21,7 +21,7 @@
 <br>
 
 - :japanese_goblin: Soy un `Estudiante Avanzado` de Sistemas en la [Facultad de ciencias exactas FACENA](https://exa.unne.edu.ar/r/) en la [Universidad Nacional del Nordeste](https://www.unne.edu.ar/).
-- :chart_with_upwards_trend: +20 certificaciones oficiales en torno a Sistemas.
+- :chart_with_upwards_trend: +20 certificaciones oficiales entorno a Sistemas.
 - :hammer: Me fascina usar el software como solución para cada `Problema`.
 - :computer: Soy un programador competitivo en `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :coffee: Actualmente estudio `Licenciatura en Sistemas` y `Ingenieria de Software`.
