@@ -12,7 +12,8 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=GalloBruno&label=Profile%20views&color=0047AB&style=plastic?" alt="GalloBruno
-" height=25px, width=160px/> 
+" height=25px, width=170px/> 
+<img src="https://wakatime.com/badge/user/b1517a3b-e2db-43d3-b701-4ca98d9e0195.svg" alt="GalloBruno" height="25px" width="200px" />
 
 </p>
 
