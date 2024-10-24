@@ -6,14 +6,11 @@
   </a>
 </p>
 
-
-
 <br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GalloBruno&label=Profile%20views&color=0047AB&style=flat-square" alt="GalloBruno" height="30px" width="160px"/>
 </p>
-
 
 [![wakatime](https://wakatime.com/badge/user/b1517a3b-e2db-43d3-b701-4ca98d9e0195.svg?style=flat-square)](https://wakatime.com/@b1517a3b-e2db-43d3-b701-4ca98d9e0195)
 	
@@ -21,7 +18,7 @@
 
 <picture> <img align="right" src="https://github.com/GalloBruno/gallobrunonicolas/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
 - :japanese_goblin: Soy un `Estudiante Avanzado` de Sistemas en la [Facultad de ciencias exactas FACENA](https://exa.unne.edu.ar/r/) en la [Universidad Nacional del Nordeste](https://www.unne.edu.ar/).
 - :chart_with_upwards_trend: +20 certificaciones oficiales en torno a Sistemas.
