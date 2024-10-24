@@ -242,7 +242,7 @@
 <hr>
  
   <div align="center">
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=juox3vw34yzfr0pxm0yto5kxy)
+	![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
   </div>
 <hr>
 	
