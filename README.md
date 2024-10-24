@@ -10,13 +10,12 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=GalloBruno&label=Profile%20views&color=0047AB&style=plastic?" alt="GalloBruno
-" height=25px, width=170px/> 
-<img src="https://wakatime.com/badge/user/b1517a3b-e2db-43d3-b701-4ca98d9e0195.svg" alt="GalloBruno" height="25px" width="200px" />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GalloBruno&label=Profile%20views&color=0047AB&style=flat-square" alt="GalloBruno" height="30px" width="160px"/>
 </p>
 
+
+[![wakatime](https://wakatime.com/badge/user/b1517a3b-e2db-43d3-b701-4ca98d9e0195.svg?style=flat-square)](https://wakatime.com/@b1517a3b-e2db-43d3-b701-4ca98d9e0195)
 	
 ## <picture><img src = "https://github.com/GalloBruno/gallobrunonicolas/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
@@ -241,9 +240,7 @@
 
 <hr>
  
-  <div align="center">
-	![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
-  </div>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=juox3vw34yzfr0pxm0yto5kxy)
 <hr>
 	
 <p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
