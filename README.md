@@ -14,9 +14,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/b1517a3b-e2db-43d3-b701-4ca98d9e0195.svg?style=flat-square)](https://wakatime.com/@b1517a3b-e2db-43d3-b701-4ca98d9e0195)
 	
-## <picture><img src = "https://github.com/GalloBruno/gallobrunonicolas/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
+## <picture><img src = "https://github.com/GalloBruno/GalloBruno/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
-<picture> <img align="right" src="https://github.com/GalloBruno/gallobrunonicolas/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/GalloBruno/GalloBruno/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
 
@@ -43,20 +43,20 @@
 	<a href="https://www.codingame.com/profile/2d30e69c3a454845be873e473057b3cc1824336" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
 
-## <picture> <img src="https://github.com/GalloBruno/gallobrunonicolas/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contacta conmigo
+## <picture> <img src="https://github.com/GalloBruno/GalloBruno/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contacta conmigo
 <p align="center">
 	<a href="mailto:gallobruno704@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/GalloBruno"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.link/1iuhgu"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/GalloBrunoNicolas"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/gallobrunonicolas/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.linkedin.com/in/GalloBruno"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/GalloBruno/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Habilidades
 
-### <picture> <img src = "https://github.com/GalloBruno/gallobrunonicolas/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
+### <picture> <img src = "https://github.com/GalloBruno/GalloBruno/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
 
 <p align="center"> 
   &emsp; 
@@ -81,7 +81,7 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/GalloBruno/gallobrunonicolas/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Desarrollo FrontEnd
+### <picture> <img src = "https://github.com/GalloBruno/GalloBruno/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Desarrollo FrontEnd
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -101,7 +101,7 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/GalloBruno/gallobrunonicolas/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software y Herramientas
+ ### <picture> <img src = "https://github.com/GalloBruno/GalloBruno/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software y Herramientas
  
 <p align="center">
   &emsp;
@@ -130,7 +130,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/GalloBruno/gallobrunonicolas/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### <picture> <img src = "https://github.com/GalloBruno/GalloBruno/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
   &emsp;
@@ -143,7 +143,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/GalloBruno/gallobrunonicolas/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Programación Competitiva y Resolución de Problemas
+ ### <picture> <img src = "https://github.com/GalloBruno/GalloBruno/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Programación Competitiva y Resolución de Problemas
  
 <p align="center">
   &emsp;
@@ -160,7 +160,7 @@
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/GalloBruno/gallobrunonicolas/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistemas Operativos
+ ### <picture> <img src = "https://github.com/GalloBruno/GalloBruno/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Sistemas Operativos
  
 <p align="center">
   &emsp;
@@ -183,7 +183,7 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/GalloBruno/gallobrunonicolas/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estadisticas
+## <picture> <img src = "https://github.com/GalloBruno/GalloBruno/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estadisticas
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
