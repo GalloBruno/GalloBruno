@@ -236,8 +236,8 @@
 </details>
 
 <hr>
- 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=juox3vw34yzfr0pxm0yto5kxy)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=juox3vw34yzfr0pxm0yto5kxy&width=1000)
 <hr>
 	
 <p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
