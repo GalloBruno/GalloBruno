@@ -12,8 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=GalloBruno&label=Profile%20views&color=0047AB&style=flat-square" alt="GalloBruno" height="30px" width="160px"/>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/b1517a3b-e2db-43d3-b701-4ca98d9e0195.svg?style=flat-square)](https://wakatime.com/@b1517a3b-e2db-43d3-b701-4ca98d9e0195)
-	
+[![wakatime](https://wakatime.com/badge/user/b1517a3b-e2db-43d3-b701-4ca98d9e0195.svg)](https://wakatime.com/@b1517a3b-e2db-43d3-b701-4ca98d9e0195)	
 ## <picture><img src = "https://github.com/GalloBruno/GalloBruno/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
 <picture> <img align="right" src="https://github.com/GalloBruno/GalloBruno/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
