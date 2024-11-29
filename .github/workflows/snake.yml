@@ -1,0 +1,28 @@
+name: Generate Snake Game
+
+on:
+  push:
+    branches:
+      - main  # O cambia "main" por la rama predeterminada de tu repositorio
+  schedule:
+    - cron: "0 0 * * *"  # Genera la animación diariamente a medianoche UTC
+  workflow_dispatch:  # Permite ejecutarlo manualmente desde la pestaña "Actions"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3.2.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Upload Snake Animation
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-game
+          path: dist/
