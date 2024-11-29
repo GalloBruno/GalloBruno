@@ -220,7 +220,7 @@
 
 [![@GalloBruno Holopin board](https://holopin.io/api/user/board?user=GalloBruno)](https://holopin.io/@GalloBruno)
 	
-
+</details>
 <hr>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=juox3vw34yzfr0pxm0yto5kxy&width=1000)
