@@ -220,16 +220,11 @@
 
 [![@GalloBruno Holopin board](https://holopin.io/api/user/board?user=GalloBruno)](https://holopin.io/@GalloBruno)
 	
+<details>
+  <summary><h3> :open_file_folder: Mis Repos </h3></summary>
+![snake gif](https://github.com/GalloBruno/GalloBruno/blob/output/github-contribution-grid-snake.gif)
 </details>
-	
-<details><summary><h3> :open_file_folder: Mis Repos </h3></summary>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/GalloBruno/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/GalloBruno/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/GalloBruno/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-</details>
+
 
 <hr>
 
